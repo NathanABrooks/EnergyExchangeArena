@@ -1,0 +1,14 @@
+# IDE Files #
+.vscode/
+
+# Compiled Source #
+out/
+
+# Configuration Details ~
+config.properties
+
+# Output data #
+results/
+
+# Notes #
+NOTES.md
